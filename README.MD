@@ -2,13 +2,13 @@ Readme de ejemplo
 lorem ipsum
 
 ## Instalación
-lorem ipsum
+Facilita
 
 ## Uso
-lorem ipsum
+Cualquiera que lo quiera usar
 
 ## Créditos
-lorem ipsum
+Yo
 
 ## Licencia
-lorem ipsum
+Yo
